@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SegurosSelers.CapaDeDatos\SegurosSelers.CapaDeDatos.csproj" />
+    <ProjectReference Include="..\SegurosSelers.Entidades\SegurosSelers.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

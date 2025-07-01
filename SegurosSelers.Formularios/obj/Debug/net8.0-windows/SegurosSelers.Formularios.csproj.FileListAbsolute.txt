@@ -1,0 +1,316 @@
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.AssemblyReference.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlPolizas.resources
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlSiniestros.resources
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlUsuarios.resources
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioHome.resources
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioLogin.resources
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioRegistro.resources
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Properties.Resources.resources
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.GenerateResource.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.AssemblyInfo.cs
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.exe
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.dll.config
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.deps.json
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.runtimeconfig.json
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosS.75FAE279.Up2Date
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\refint\SegurosSelers.Formularios.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.genruntimeconfig.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\ref\SegurosSelers.Formularios.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioImagenPopUp.resources
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlContratados.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.exe
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.dll.config
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.deps.json
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.runtimeconfig.json
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlContratados.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlPolizas.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlSiniestros.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlUsuarios.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioHome.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioImagenPopUp.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioLogin.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioRegistro.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Properties.Resources.resources
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.AssemblyInfo.cs
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosS.75FAE279.Up2Date
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\refint\SegurosSelers.Formularios.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.genruntimeconfig.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\ref\SegurosSelers.Formularios.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.exe
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.dll.config
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.deps.json
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.runtimeconfig.json
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.pdb
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.AssemblyReference.cache
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlContratados.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlPolizas.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlSiniestros.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlUsuarios.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioHome.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioImagenPopUp.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioLogin.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioRegistro.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Properties.Resources.resources
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.GenerateResource.cache
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.AssemblyInfoInputs.cache
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.AssemblyInfo.cs
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.CoreCompileInputs.cache
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosS.75FAE279.Up2Date
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.dll
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\refint\SegurosSelers.Formularios.dll
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.pdb
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.genruntimeconfig.cache
+C:\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\ref\SegurosSelers.Formularios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\refint\SegurosSelers.Formularios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.exe
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.dll.config
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.deps.json
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.runtimeconfig.json
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Formularios.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlContratados.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlPolizas.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlSiniestros.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Controles.UserControlUsuarios.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioHome.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioImagenPopUp.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioLogin.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.FormularioRegistro.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.Properties.Resources.resources
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.AssemblyInfo.cs
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosS.75FAE279.Up2Date
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\SegurosSelers.Formularios.genruntimeconfig.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Formularios\obj\Debug\net8.0-windows\ref\SegurosSelers.Formularios.dll

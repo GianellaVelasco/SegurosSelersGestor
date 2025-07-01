@@ -1,0 +1,68 @@
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.deps.json
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.csproj.AssemblyReference.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.AssemblyInfo.cs
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosS.F6B2935A.Up2Date
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\refint\SegurosSelers.Servicios.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\ref\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.deps.json
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.AssemblyInfo.cs
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosS.F6B2935A.Up2Date
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\refint\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\ref\SegurosSelers.Servicios.dll
+C:\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.deps.json
+C:\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.csproj.AssemblyReference.cache
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.AssemblyInfoInputs.cache
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.AssemblyInfo.cs
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.csproj.CoreCompileInputs.cache
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosS.F6B2935A.Up2Date
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\refint\SegurosSelers.Servicios.dll
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\ref\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.deps.json
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.AssemblyInfo.cs
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosS.F6B2935A.Up2Date
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\refint\SegurosSelers.Servicios.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\SegurosSelers.Servicios.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.Servicios\obj\Debug\net8.0-windows\ref\SegurosSelers.Servicios.dll

@@ -1,0 +1,60 @@
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.deps.json
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.AssemblyInfoInputs.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.AssemblyInfo.cs
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosS.896922BA.Up2Date
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\refint\SegurosSelers.CapaDeDatos.dll
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\Familia\source\repos\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\ref\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.deps.json
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.AssemblyInfo.cs
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosS.896922BA.Up2Date
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\refint\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\PC\Downloads\SegurosSelers\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\ref\SegurosSelers.CapaDeDatos.dll
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.deps.json
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.csproj.AssemblyReference.cache
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.AssemblyInfoInputs.cache
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.AssemblyInfo.cs
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosS.896922BA.Up2Date
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\refint\SegurosSelers.CapaDeDatos.dll
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\ref\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.deps.json
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.Entidades.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\bin\Debug\net8.0-windows\SegurosSelers.Entidades.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.AssemblyInfo.cs
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosS.896922BA.Up2Date
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\refint\SegurosSelers.CapaDeDatos.dll
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\SegurosSelers.CapaDeDatos.pdb
+C:\Users\PC\Downloads\SegurosSelers 11-6-25\SegurosSelers\SegurosSelers.CapaDeDatos\obj\Debug\net8.0-windows\ref\SegurosSelers.CapaDeDatos.dll
